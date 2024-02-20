@@ -1,0 +1,22 @@
+.main{
+    padding: 3rem;
+}
+
+.registrar{
+    padding: 10px;
+    text-align: left;
+}
+
+.tableHead{
+    background-color: antiquewhite;
+    color: black;
+}
+
+th{
+    padding: 10px;
+}
+
+td .textLeft{
+    padding: 10px;
+    text-align: left;
+}
